@@ -1,7 +1,7 @@
-#Virtual Memory Simulator
+# Virtual Memory Simulator
 This Java application simulates virtual memory management using various page replacement algorithms.
 
-##Overview
+## Overview
 The Virtual Memory Simulator (VMSimulator) is a tool designed to simulate memory management strategies commonly used in operating systems. It provides a framework to experiment with different page replacement algorithms and analyze their performance.
 
 ##Features
