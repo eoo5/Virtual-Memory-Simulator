@@ -4,7 +4,7 @@ This Java application simulates virtual memory management using various page rep
 ## Overview
 The Virtual Memory Simulator (VMSimulator) is a tool designed to simulate memory management strategies commonly used in operating systems. It provides a framework to experiment with different page replacement algorithms and analyze their performance.
 
-##Features
+## Features
 
 ### Support for Multiple Algorithms: VMSimulator supports three page replacement algorithms: Optimal (opt), Clock (clock), and Least Recently Used (LRU).
 
