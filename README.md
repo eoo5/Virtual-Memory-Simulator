@@ -39,7 +39,9 @@ This command runs the simulator with 10 frames using the Optimal algorithm, simu
 
 ## Supported Algorithms
 Optimal (opt): Simulates the optimal page replacement algorithm by predicting future memory accesses.
+
 Clock: Implements the Clock page replacement algorithm.
+
 LRU: Implements the Least Recently Used page replacement algorithm.
 
 ### Contributing
